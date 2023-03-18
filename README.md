@@ -22,7 +22,7 @@ What are the steps required to install your project? Provide a step-by-step desc
 2. After installing Visual Studio Code, install the Live Server extension.
 3. Ensure you are using a browser that allows you to view scripts in a console such as Chrome.
 4. Download the project code and export it to your local machine.
-5. Open the prework-study-guide folder where index.html resides in Visual Studio Code.
+5. Open the folder where index.html resides in Visual Studio Code.
 6. Right-click index.html and choose "Open with Live Server".
 7. Open Developer Tools and the Console window with index.html selected and review the output.
 

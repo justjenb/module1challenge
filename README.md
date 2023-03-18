@@ -17,8 +17,7 @@ What are the steps required to install your project? Provide a step-by-step desc
 1. [Visual Studio Code](https://code.visualstudio.com/download)
 2. [Live Server Extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
-### Usage
-
+### Local
 1. You will require an IDE such as Visual Studio Code.
 2. After installing Visual Studio Code, install the Live Server extension.
 3. Ensure you are using a browser that allows you to view scripts in a console such as Chrome.
@@ -26,6 +25,13 @@ What are the steps required to install your project? Provide a step-by-step desc
 5. Open the prework-study-guide folder where index.html resides in Visual Studio Code.
 6. Right-click index.html and choose "Open with Live Server".
 7. Open Developer Tools and the Console window with index.html selected and review the output.
+
+## View on the Web
+[Module1Challenge on GitHub Pages](https://justjenb.github.io/module1challenge/)
+
+## Mockup
+
+![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/113152611/226082609-da5e2bbc-042b-42bc-8722-0822f20528b6.png)
 
 ## Credits
 

@@ -31,7 +31,7 @@ What are the steps required to install your project? Provide a step-by-step desc
 
 ## Mockup
 
-![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/113152611/226082609-da5e2bbc-042b-42bc-8722-0822f20528b6.png)
+![html-css-git-homework-demo-image](https://user-images.githubusercontent.com/113152611/226082609-da5e2bbc-042b-42bc-8722-0822f20528b6.png)
 
 ## Credits
 

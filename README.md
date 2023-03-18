@@ -36,7 +36,7 @@ What are the steps required to install your project? Provide a step-by-step desc
 
 ## Credits
 
-###Resources
+### Resources
 1. [W3 Schools](https://www.w3schools.com/)
 2. [EditorX](https://www.editorx.com/shaping-design/article/resize-image-css)
 

@@ -25,7 +25,7 @@ What are the steps required to install your project? Provide a step-by-step desc
 4. Download the project code and export it to your local machine.
 5. Open the prework-study-guide folder where index.html resides in Visual Studio Code.
 6. Right-click index.html and choose "Open with Live Server".
-7. Open Developer Tools and the Console window with the Prework Study Guide selected and review the output.
+7. Open Developer Tools and the Console window with index.html selected and review the output.
 
 ## Credits
 

@@ -12,13 +12,13 @@ What are the steps required to install your project? Provide a step-by-step desc
 
 ## Usage
 
-###Requirements
+### Requirements
 
 1. [Visual Studio Code](https://code.visualstudio.com/download)
 
 2. [Live Server Extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
-###Usage
+### Usage
 
 1. You will require an IDE such as Visual Studio Code.
 
